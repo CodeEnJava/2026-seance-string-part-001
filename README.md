@@ -1,4 +1,4 @@
-# 🐍 Séance pédagogique S-PYTH-1005  
+# 🐍 Séance pédagogique S-PYTH-1006  
 # Manipulation des chaînes de caractères dans l'interpréteur Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -11,7 +11,7 @@
 
 | Élément | Description |
 |---|---|
-| **Référence séance** | S-PYTH-1005 |
+| **Référence séance** | S-PYTH-1006 |
 | **Module** | M-PYTH – Programmation Python |
 | **Thématique** | Manipulation des chaînes de caractères |
 | **Langage utilisé** | Python |
