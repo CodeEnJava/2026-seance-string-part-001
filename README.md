@@ -414,7 +414,7 @@ Bon
 
 ## Exercice 8
 
-Créer une chaîne composée de :
+Créer une chaîne composée de 20 caractères *
 
 ********************
 
